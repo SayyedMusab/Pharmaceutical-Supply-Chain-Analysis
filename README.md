@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-lightgrey)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 ---
 
@@ -34,8 +35,15 @@ The primary goal was to deconstruct the components of revenue loss and provide a
 |----------|------------|
 | Domain | Pharmaceutical Sales & Inventory |
 | Source | Kaggle |
-| Format | Sql  |
+| Original Format	 | SQl (204,199 rows)   |
 
+## 📌 Key Fields
+
+| Attribute | Fields |
+|----------|------------|
+| Product Information:| Product Name, Product Category, Manufacturer |
+| Temporal Data:| Transaction Date, Expiry Date |
+| Financial & Stock Data:| Cost Price, Stocks On Hands, Received Stocks |
 
 ---
 
